@@ -1,4 +1,4 @@
-# portfolio
+# 신입 개발자를 꿈꾸는
 
 황상진 Hwang Sang Jin
 
