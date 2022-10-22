@@ -66,12 +66,13 @@
      
   * 임재승(가톨릭대학교) - 기획, 데이터 크롤러 
      
-  * 황상진(가톨릭대학교) - 머신러닝, 백엔드
-  <h3> References<a id="reference"></a>
-  <h6>   
-    * Hyungsuc Kang, Janghoon Yang, “Optimization of Word2vec Models for Korean Word Embeddings”'  
-  <h6>
-    * Jee-Uk Heu, “Korean Language Clustering using Word2Vec”  
+  * 황상진(가톨릭대학교) - 머신러닝, 백엔드  
+  
+<h4> References<a id="reference"></a>
+<h6>   
+   * Hyungsuc Kang, Janghoon Yang, “Optimization of Word2vec Models for Korean Word Embeddings”   
+    
+   * Jee-Uk Heu, “Korean Language Clustering using Word2Vec”  
    
 <h3> Technology <a id="tech" ></a>
 <div align = "center">
