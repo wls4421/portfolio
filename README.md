@@ -44,7 +44,8 @@
   - [Technology](#tech)
   - [Architecture](#arch)
 <h4> Process<a id="process"></a>
-<h6>
+<h6>  
+
   * 2022.03 - 아이디어 구체화 및 기획  
   
   * 2022.04 - 데이터 형식 통일화 및 리뷰 데이터 크롤링  
