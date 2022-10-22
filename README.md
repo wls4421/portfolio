@@ -1,7 +1,4 @@
-# 개발자를 꿈꾸는
-
-![반명함-이력서용](https://user-images.githubusercontent.com/76942710/197327798-dfaf79a9-2814-41b4-9129-86c0e6ecc15e.jpg)
-
+# 개발자를 꿈꾸는 <img src="https://user-images.githubusercontent.com/76942710/197327798-dfaf79a9-2814-41b4-9129-86c0e6ecc15e.jpg" width = "10%" height="10%">
 <h1> Profile
 <h6>  
   
