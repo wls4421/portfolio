@@ -30,4 +30,5 @@
 
 <h1> Project
   <h2> 호텔 추천 알고리즘 MOOD(Make yOur Own Destination) 제작
+
 ![](./img/Mood.png)
