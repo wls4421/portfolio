@@ -19,12 +19,15 @@
 <h6>
   가톨릭대학교 성심교정 컴퓨터정보공학부(2017.2 ~ )
   
-<h1> Stack and Activities
+<h1> Stack
   <h2> Middle Level
-  <h4> Python - Selenium Crawling
-  <h4> C/C++ - SDL2 Game(C++) / A5slash1(C) 
+  <h4> Python
+  <h4> C/C++
   <h2> Low Level
   <h4> Java
   <h4> Go
   <h4> MySQL
-  
+
+<h1> Project
+  <h2> 호텔 추천 알고리즘 MOOD(Make yOur Own Destination) 제작
+    <h3> 
