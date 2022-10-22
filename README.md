@@ -42,6 +42,7 @@
   <h4> Date : 2022.03 ~ 2022.07
   <h4> Members and Parts
   <h6>
+  
   김시현(가톨릭대학교) - 팀 리더, 머신러닝, 백엔드  
   
   #
@@ -52,7 +53,7 @@
    
   #
   황상진(가톨릭대학교) - 머신러닝, 백엔드
-  <h4> References
+  <h3> References
   <h6> Hyungsuc Kang, Janghoon Yang, “Optimization of Word2vec Models for Korean Word Embeddings”'
   <h6> Jee-Uk Heu, “Korean Language Clustering using Word2Vec”
   <h4>
