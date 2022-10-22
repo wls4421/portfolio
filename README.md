@@ -58,7 +58,7 @@
   <h6> Hyungsuc Kang, Janghoon Yang, “Optimization of Word2vec Models for Korean Word Embeddings”'
   <h6> Jee-Uk Heu, “Korean Language Clustering using Word2Vec”  
    
-## Technology <a id="tech"></a>
+<h3> Technology <a id="tech"></a>
  
 
 
