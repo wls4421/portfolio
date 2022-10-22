@@ -1,6 +1,6 @@
 # 신입 개발자를 꿈꾸는
 
-![sreensh](반명함-이력서용.jpg)
+![sreensh](반명함-이력서용.jpg){: width="60" height="60"}
 
 <h1> Profile
 <h6>  
