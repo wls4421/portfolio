@@ -40,8 +40,15 @@
 <h1> Project
   <h3> 호텔 추천 알고리즘 MOOD(Make yOur Own Destination)
   <h4> Date : 2022.03 ~ 2022.07
-  <h4> Part : Data Crawler 
-  <h4> 
+  <h4> Members and Parts
+  <h6>
+  김시현(가톨릭대학교) - 팀 리더, 머신러닝, 백엔드
+  김상연(가톨릭대학교) - 기획, 프론트엔드
+  임재승(가톨릭대학교) - 기획, 데이터 크롤러 
+  황상진(가톨릭대학교) - 머신러닝, 백엔드
+  <h4> References
+  <h6> Hyungsuc Kang, Janghoon Yang, “Optimization of Word2vec Models for Korean Word Embeddings”'
+  <h6> Jee-Uk Heu, “Korean Language Clustering using Word2Vec”
 <img src="https://user-images.githubusercontent.com/76942710/197331078-2f9411f1-aa93-4675-9f3e-a60b5c5acd16.png" width = "60%" height="60%" align="left"> 
 <img src="https://user-images.githubusercontent.com/76942710/197331096-3d2ae60f-c0f2-4901-b266-4d2da2ed0708.png" width = "80%" height="80%" align="left"> 
 
