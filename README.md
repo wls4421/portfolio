@@ -38,7 +38,7 @@
   - [MOOD](#mood)
   - [SPY GAME](#spy)  
   
-## 호텔 추천 알고리즘 MOOD(Make yOur Own Destination)<a id="mood"></a>
+## 숙소 추천 알고리즘 MOOD(Make yOur Own Destination)<a id="mood"></a>
    
 ## Table of contents
   - [Process](#process)
@@ -87,7 +87,7 @@
 <h6>
 <div align = "left" >
  
-  1. 호텔 리뷰 사이트에서 리뷰 데이터를 크롤링합니다.  
+  1. 숙소 리뷰 사이트에서 리뷰 데이터를 크롤링합니다.  
   
   2. 리뷰 데이터를 자연어 처리하여 임베딩&클러스터링 합니다.  
   
@@ -108,7 +108,7 @@
    <img src="https://user-images.githubusercontent.com/76942710/197342212-3f111c1c-b74b-41df-8ed9-c8c45470a05a.png" width = "50%" height = "50%">
    </div>
   
-  6. Input Data와 비슷한 성향의 user가 평가한 장소(호텔)이 설정한 임계값을 넘어갈 때 이를 추천합니다.
+  6. Input Data와 비슷한 성향의 user가 평가한 장소(숙소)가 설정한 임계값을 넘어갈 때 이를 추천합니다.
   <div align ="center">
    <img src="https://user-images.githubusercontent.com/76942710/197342349-06a31753-f598-4399-95bc-c2e7e9e52779.png" width = "50%" height = "50%">
    </div>
