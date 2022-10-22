@@ -37,7 +37,7 @@
 <h1> Project
   <h3> 호텔 추천 알고리즘 MOOD(Make yOur Own Destination)
    
-<h1> Table of contents
+## Table of contents
   - [Date](#date)
   - [Members and Parts](#members)
   - [References](#reference)
