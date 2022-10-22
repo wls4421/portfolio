@@ -63,7 +63,8 @@
   
   * 2022.06 - 결과 확인 및 평가  
   
-<h4> My Part<a id="part"></a>
+<h4> My Part<a id="part"></a>  
+ 
 <h6>  
     -  Agoda 사이트 호텔 데이터 크롤링  
     
