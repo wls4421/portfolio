@@ -30,12 +30,9 @@
   <h5> Python
   <h5> C/C++
   <h5> Java
-  <h5> Go
   <h5> MySQL
   <h5> Git
   <h5> AWS
-  <h5> Docker
-  <h5> VMware Workstation
 
 <h1> Project
   <h3> 호텔 추천 알고리즘 MOOD(Make yOur Own Destination)
