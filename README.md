@@ -42,7 +42,7 @@
    
 ## Table of contents
   - [Process](#process)
-  - [Members and Parts](#members)
+  - [My Part](#part)
   - [References](#reference)
   - [Used Technology](#tech)
   - [Architecture](#arch)
@@ -57,16 +57,15 @@
   
   * 2022.06 - 결과 확인 및 평가  
   
-<h4> Members and Parts<a id="members"></a>
-<h6>
+<h4> My Part<a id="part"></a>
+<h6>  
+    -  Agoda 사이트 호텔 데이터 크롤링  
+    
+    -  NLP(Natural Language Processing: 자연어처리)  
+    
+    -  Embedding(임베딩)&Clustering(클러스터링)
   
-  * 김시현(가톨릭대학교) - 팀 리더, 머신러닝, 백엔드  
-     
-  * 김상연(가톨릭대학교) - 기획, 프론트엔드
-     
-  * 임재승(가톨릭대학교) - 기획, 데이터 크롤러 
-     
-  * 황상진(가톨릭대학교) - 머신러닝, 데이터 크롤러  
+  
   
 <h4> References<a id="reference"></a>  
 <h6>   
@@ -119,6 +118,13 @@
    </div>
 </div>
  
-
+# SPY GAME <a id="mspy"></a>
+   
+## Table of contents
+  - [Process](#process)
+  - [Members and Parts](#members)
+  - [References](#reference)
+  - [Used Technology](#tech)
+  - [Architecture](#arch)
 
 
