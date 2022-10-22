@@ -1,7 +1,8 @@
  <img src="https://user-images.githubusercontent.com/76942710/197327798-dfaf79a9-2814-41b4-9129-86c0e6ecc15e.jpg" width = "20%" height="20%" align="right" > 
 
 # #개발자를 꿈꾸는
-원활한 소통, 끊임없는 자기개발을 추구하는
+원활한 소통, 끊임없는 자기개발을 추구합니다.
+
 개발자를 꿈꾸는 가톨릭대학교 황상진 입니다.
 
 <h1> Profile
