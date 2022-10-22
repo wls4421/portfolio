@@ -70,7 +70,6 @@
   <h3> References<a id="reference"></a>
   <h6>   
     * Hyungsuc Kang, Janghoon Yang, “Optimization of Word2vec Models for Korean Word Embeddings”'  
-    
     * Jee-Uk Heu, “Korean Language Clustering using Word2Vec”  
    
 <h3> Technology <a id="tech" ></a>
