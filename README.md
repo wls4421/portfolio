@@ -12,29 +12,29 @@
 ✉ **wls4421@gmail.com**
 
 <h1> Education
-<h4>  2013.3 ~ 2016.2  
+<h5>  2013.3 ~ 2016.2  
 <h6>
   서울대성고등학교
-<h4>  2017.2 ~
+<h5>  2017.2 ~
 <h6>
   가톨릭대학교 성심교정 컴퓨터정보공학부(2017.2 ~ )
   
 <h1> Stack
-  <h2> Middle Level
-  <h4> Python
-  <h4> C/C++
-  <h2> Low Level
-  <h4> Java
-  <h4> Go
-  <h4> MySQL
+  <h3> Middle Level
+  <h5> Python
+  <h5> C/C++
+  <h3> Low Level
+  <h5> Java
+  <h5> Go
+  <h5> MySQL
 
 <h1> Project
-  <h2> 호텔 추천 알고리즘 MOOD(Make yOur Own Destination)
-  <h3> Language : Python, Node.js, MySQL, React
-  <h3> Framework : Selenium
-  <h3> Date : 2022.03 ~ 2022.07
-  <h3> Part : Data Crawler 
+  <h3> 호텔 추천 알고리즘 MOOD(Make yOur Own Destination)
+  <h4> Language : Python, Node.js, MySQL, React
+  <h4> Framework : Selenium
+  <h4> Date : 2022.03 ~ 2022.07
+  <h4> Part : Data Crawler 
     
     
 
-![](./img/Mood.png)
+![](./img/Mood.png){width = "200", height = "200"}
