@@ -2,14 +2,18 @@
 
 ![sreensh](반명함-이력서용.jpg)
 
-<h1> Information
+<h1> Profile
 <h6>  
   
-**황상진 Hwang Sang Jin**
-
+**황상진(Hwang Sang Jin)**
 
 ✆ **010-8633-4421**
 
 ✉ **wls4421@gmail.com**
 
-
+<h1> Education
+<h6>
+  
+  **서울대성고등학교 (2013.3 ~ 2016.2)**
+  **가톨릭대학교 성심교정(2017.2 ~ ) **
+  
