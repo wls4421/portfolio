@@ -1,6 +1,6 @@
 # 개발자를 꿈꾸는
 
-![sreensh](반명함-이력서용.jpg)
+![sreensh](./img/반명함-이력서용.jpg)
 
 <h1> Profile
 <h6>  
