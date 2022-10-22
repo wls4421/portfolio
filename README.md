@@ -2,8 +2,8 @@
 
 ![sreensh](반명함-이력서용.jpg)
 
-<h1> -----Information------ <h1>
-  
+<h1> Information
+<h6>  
   
 **황상진 Hwang Sang Jin**
 
