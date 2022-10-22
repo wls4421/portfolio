@@ -30,8 +30,7 @@
 
 <h1> Project
   <h3> 호텔 추천 알고리즘 MOOD(Make yOur Own Destination)
-  <h4> Language : Python, Node.js, MySQL, React
-  <h4> Framework : Selenium
+  <h4> Language : Python(Selenium,KoNLPy), Node.js, MySQL, React
   <h4> Date : 2022.03 ~ 2022.07
   <h4> Part : Data Crawler 
   <h4> 
