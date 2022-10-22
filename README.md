@@ -49,10 +49,8 @@
   황상진(가톨릭대학교) - 머신러닝, 백엔드
   <h3> References
   <h6> Hyungsuc Kang, Janghoon Yang, “Optimization of Word2vec Models for Korean Word Embeddings”'
-  <h6> Jee-Uk Heu, “Korean Language Clustering using Word2Vec”
-  
-   
-   <h1> Technology
+  <h6> Jee-Uk Heu, “Korean Language Clustering using Word2Vec”   
+<h1> Technology
  
 
 <img src="https://user-images.githubusercontent.com/76942710/197331096-3d2ae60f-c0f2-4901-b266-4d2da2ed0708.png" width = "80%" height="80%"> 
