@@ -22,7 +22,7 @@
 <h1> Stack and Activities
   <h2> Middle Level
   <h4> Python - Selenium Crawling
-  <h4> C/C++ - SDL2 Game(C++) / A5/1(C) 
+  <h4> C/C++ - SDL2 Game(C++) / A5slash1(C) 
   <h2> Low Level
   <h4> Java
   <h4> Go
