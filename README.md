@@ -112,13 +112,18 @@
   <div align ="center">
    <img src="https://user-images.githubusercontent.com/76942710/197342349-06a31753-f598-4399-95bc-c2e7e9e52779.png" width = "50%" height = "50%">
    </div>
- 
+   
+ 프론트엔드 구현화 한 화면
+   <div align ="center">
+    <img src="https://user-images.githubusercontent.com/76942710/197327721-12ae246b-9f93-433a-8339-80f355ccd128.png" width = "25%" height="20%">  
+   </div>
 </div>
-<h6>
+<h6>  
+
  파이썬 셀레니움을 이용하여 Agoda 호텔 사이트의 데이터를 크롤링 하였습니다. 
  호텔의 이름, 위치, 편의시설을 데이터 프레임으로 가지는 호텔 목록 파일과 
  호텔에 작성한 리뷰자의 ID와 리뷰 헤드라인, 리뷰 본문, 평점을 리뷰 파일을 개별로 저장합니다.
  
   
- <img src="https://user-images.githubusercontent.com/76942710/197327721-12ae246b-9f93-433a-8339-80f355ccd128.png" width = "25%" height="20%">  
+
 
