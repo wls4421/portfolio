@@ -34,7 +34,10 @@
   <h5> Git
   <h5> AWS
 
-<h1> Project
+## Projects
+  - [MOOD](#mood)
+  - [SPY GAME](#spy)  
+  
   <h3> 호텔 추천 알고리즘 MOOD(Make yOur Own Destination)
    
 ## Table of contents
