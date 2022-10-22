@@ -37,15 +37,15 @@
 <h1> Project
   <h3> 호텔 추천 알고리즘 MOOD(Make yOur Own Destination)
    
-## Table of contents
+<h1> Table of contents
   - [Date](#date)
   - [Members and Parts](#members)
   - [References](#reference)
   - [Technology](#tech)
   - [Architecture](#arch)
-  <h4> Date<a id="date"></a> : 2022.03 ~ 2022.07
-  <h4> Members and Parts<a id="members"></a>
-  <h6>
+<h4> Date<a id="date"></a> : 2022.03 ~ 2022.07
+<h4> Members and Parts<a id="members"></a>
+<h6>
   
   * 김시현(가톨릭대학교) - 팀 리더, 머신러닝, 백엔드  
      
