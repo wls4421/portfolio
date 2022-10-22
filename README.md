@@ -44,6 +44,7 @@
   - [Technology](#tech)
   - [Architecture](#arch)
 <h4> Date<a id="date"></a>
+<h6>
   * 2022.03 ~ 2022.07
 <h4> Members and Parts<a id="members"></a>
 <h6>
