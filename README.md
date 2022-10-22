@@ -81,8 +81,20 @@
 <h3> Architecture <a id="arch" ></a>
 <div align ="center">
    <img src="https://user-images.githubusercontent.com/76942710/197331096-3d2ae60f-c0f2-4901-b266-4d2da2ed0708.png" width = "100%" height="100%"> 
-   파이썬 Selenium을 이용하여 데이터를 크롤링 하였습니다. 
 </div>
+<div align = "left">
+ <h6>
+  1. 호텔 리뷰 사이트에서 리뷰 데이터를 크롤링합니다.
+  2. 리뷰 데이터를 자연어 처리하여 임베딩&클러스터링 합니다.
+   -> NLP(Natural Language Processing: 자연어처리), 리뷰 데이터의 명사 형용사 추출을 진행하기 위해 KoNLPy를 사용합니다.
+   -> 추출한 단어를 300차원 벡터로 임베딩합니다. 임베딩한 단어를 150개로 군집화(클러스터링)하여 이후 사용자의 성향 분석 문항에 이용합니다.
+  3. 리뷰를 작성한 user 각각의 클러스터링 그룹별로 수치를 데이터화 합니다.
+ 
+</div>
+<h6>
+ 파이썬 셀레니움을 이용하여 Agoda 호텔 사이트의 데이터를 크롤링 하였습니다. 
+ 호텔의 이름, 위치, 편의시설을 데이터 프레임으로 가지는 호텔 목록 파일과 
+ 호텔에 작성한 리뷰자의 ID와 리뷰 헤드라인, 리뷰 본문, 평점을 리뷰 파일을 개별로 저장합니다.
  
   
  <img src="https://user-images.githubusercontent.com/76942710/197327721-12ae246b-9f93-433a-8339-80f355ccd128.png" width = "25%" height="20%">  
