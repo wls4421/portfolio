@@ -24,7 +24,13 @@
   서울대성고등학교
 <h5>  2017.2 ~
 <h6>
-  가톨릭대학교 성심교정 컴퓨터정보공학부(2017.2 ~ )
+  가톨릭대학교 성심교정 컴퓨터정보공학부(2017.2 ~ )  
+ 
+  이수학점 119/130  
+ 
+  평점평균 3.72/4.5  
+ 
+ 
   
 <h1> Stack
   <h5> Python
@@ -122,8 +128,7 @@
    
 ## Table of contents
   - [Process](#process)
-  - [Members and Parts](#members)
-  - [References](#reference)
+  - [My Part](#part)
   - [Used Technology](#tech)
   - [Architecture](#arch)
 
