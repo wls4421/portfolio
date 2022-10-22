@@ -38,14 +38,17 @@
   <h3> 호텔 추천 알고리즘 MOOD(Make yOur Own Destination)
    
 ## Table of contents
-  - [Date](#date)
+  - [Process](#process)
   - [Members and Parts](#members)
   - [References](#reference)
   - [Technology](#tech)
   - [Architecture](#arch)
-<h4> Date<a id="date"></a>
+<h4> Process<a id="process"></a>
 <h6>
-  * 2022.03 ~ 2022.07
+  * 2022.03 - 아이디어 구체화 및 기획
+  * 2022.04 - 데이터 형식 통일화 및 리뷰 데이터 크롤링
+  * 2022.05 - 단어 임베딩 및 클러스터링
+  * 2022.06 - 결과 확인 및 평가
 <h4> Members and Parts<a id="members"></a>
 <h6>
   
