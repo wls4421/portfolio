@@ -1,6 +1,6 @@
 # 개발자를 꿈꾸는
 
-![sreensh](./img/반명함-이력서용.jpg)
+![반명함-이력서용](https://user-images.githubusercontent.com/76942710/197327798-dfaf79a9-2814-41b4-9129-86c0e6ecc15e.jpg)
 
 <h1> Profile
 <h6>  
