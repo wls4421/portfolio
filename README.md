@@ -78,9 +78,11 @@
    <img src="https://user-images.githubusercontent.com/76942710/197331078-2f9411f1-aa93-4675-9f3e-a60b5c5acd16.png" width = "80%" height="80%">  
 </div>
 
-
-
+<h3> Architecture <a id="arch" ></a>
+<div align ="center">
+   <img src="https://user-images.githubusercontent.com/76942710/197331096-3d2ae60f-c0f2-4901-b266-4d2da2ed0708.png" width = "80%" height="80%"> 
+</div>
  
   
  <img src="https://user-images.githubusercontent.com/76942710/197327721-12ae246b-9f93-433a-8339-80f355ccd128.png" width = "25%" height="20%">  
- <img src="https://user-images.githubusercontent.com/76942710/197331096-3d2ae60f-c0f2-4901-b266-4d2da2ed0708.png" width = "80%" height="80%"> 
+
