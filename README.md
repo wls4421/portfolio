@@ -34,6 +34,6 @@
   <h4> Framework : Selenium
   <h4> Date : 2022.03 ~ 2022.07
   <h4> Part : Data Crawler 
+  <h4> 
     
-    
-<img src="https://user-images.githubusercontent.com/76942710/197327721-12ae246b-9f93-433a-8339-80f355ccd128.png" width = "10%" height="10%">
+<img src="https://user-images.githubusercontent.com/76942710/197327721-12ae246b-9f93-433a-8339-80f355ccd128.png" width = "20%" height="20%">
