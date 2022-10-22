@@ -128,13 +128,13 @@
  호텔의 이름, 위치, 편의시설을 데이터 프레임으로 가지는 호텔 목록 파일과 
  
  <div align="center">
-  <img src="https://user-images.githubusercontent.com/76942710/197340076-98b61462-0380-4171-ac16-f9a74b5336bf.JPG" width = "50%" height = "50%">
+  <img src="https://user-images.githubusercontent.com/76942710/197340076-98b61462-0380-4171-ac16-f9a74b5336bf.JPG" width = "100%" height = "100%">
  </div>
  
  호텔에 작성한 리뷰자의 ID와 리뷰 헤드라인, 리뷰 본문, 평점을 리뷰 파일을 개별로 저장합니다.
  
  <div align="center">
-  <img src="https://user-images.githubusercontent.com/76942710/197340090-4f9913ad-e82c-4472-a57b-460a525777f5.JPG" width = "50%" height = "50%">
+  <img src="https://user-images.githubusercontent.com/76942710/197340090-4f9913ad-e82c-4472-a57b-460a525777f5.JPG" width = "100%" height = "100%">
  </div>
 
 
