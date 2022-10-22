@@ -29,8 +29,11 @@
   <h4> MySQL
 
 <h1> Project
-  <h2> 호텔 추천 알고리즘 MOOD(Make yOur Own Destination) 제작
-    
+  <h2> 호텔 추천 알고리즘 MOOD(Make yOur Own Destination)
+  <h3> Language : Python, Node.js, MySQL, React
+  <h3> Framework : Selenium
+  <h3> Date : 2022.03 ~ 2022.07
+  <h3> Part : Data Crawler 
     
     
 
