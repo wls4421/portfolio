@@ -102,8 +102,14 @@
   4. 수치화한 데이터를 기반으로 협업 필터링 모델을 제작합니다.
   
   5. 사용자는 클러스터링 데이터를 기반으로 작성된 성향 분석 문항에 응답하고 이를 Input Data로 수치화합니다.
+  <div align ="center">
+   <img src="https://user-images.githubusercontent.com/76942710/197342212-3f111c1c-b74b-41df-8ed9-c8c45470a05a.png" width = "100%" height = "100%">
+   </div>
   
   6. Input Data와 비슷한 성향의 user가 평가한 장소(호텔)이 설정한 임계값을 넘어갈 때 이를 추천합니다.
+  <div align ="center">
+   <img src="https://user-images.githubusercontent.com/76942710/197342349-06a31753-f598-4399-95bc-c2e7e9e52779.png" width = "100%" height = "100%">
+   </div>
  
 </div>
 <h6>
