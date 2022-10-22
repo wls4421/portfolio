@@ -43,16 +43,10 @@
   <h4> Members and Parts
   <h6>
   
-  김시현(가톨릭대학교) - 팀 리더, 머신러닝, 백엔드  
-  
-  #
-  김상연(가톨릭대학교) - 기획, 프론트엔드
-  
-  #
-  임재승(가톨릭대학교) - 기획, 데이터 크롤러 
-   
-  #
-  황상진(가톨릭대학교) - 머신러닝, 백엔드
+  # 김시현(가톨릭대학교) - 팀 리더, 머신러닝, 백엔드  
+  # 김상연(가톨릭대학교) - 기획, 프론트엔드
+  # 임재승(가톨릭대학교) - 기획, 데이터 크롤러 
+  # 황상진(가톨릭대학교) - 머신러닝, 백엔드
   <h3> References
   <h6> Hyungsuc Kang, Janghoon Yang, “Optimization of Word2vec Models for Korean Word Embeddings”'
   <h6> Jee-Uk Heu, “Korean Language Clustering using Word2Vec”
