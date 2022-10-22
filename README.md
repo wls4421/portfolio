@@ -81,6 +81,7 @@
 <h3> Architecture <a id="arch" ></a>
 <div align ="center">
    <img src="https://user-images.githubusercontent.com/76942710/197331096-3d2ae60f-c0f2-4901-b266-4d2da2ed0708.png" width = "100%" height="100%"> 
+   파이썬 Selenium을 이용하여 데이터를 크롤링 하였습니다. 
 </div>
  
   
