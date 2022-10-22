@@ -159,5 +159,5 @@
 
 <h3> Architecture <a id="arch2" ></a>
 <div align ="center">
-   <img src="https://user-images.githubusercontent.com/76942710/197352453-b3da05e8-454e-44e1-8f8d-07d21cdf956a.png" width = "100%" height="100%"> 
+   <img src="https://user-images.githubusercontent.com/76942710/197352453-b3da05e8-454e-44e1-8f8d-07d21cdf956a.png" width = "70%" height="70%"> 
 </div>
