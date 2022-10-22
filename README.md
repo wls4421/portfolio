@@ -82,8 +82,8 @@
 <div align ="center">
    <img src="https://user-images.githubusercontent.com/76942710/197331096-3d2ae60f-c0f2-4901-b266-4d2da2ed0708.png" width = "100%" height="100%"> 
 </div>
-<div align = "left" h6>
-
+<div align = "left" >
+ <h6>
   1. 호텔 리뷰 사이트에서 리뷰 데이터를 크롤링합니다.  
   
   2. 리뷰 데이터를 자연어 처리하여 임베딩&클러스터링 합니다.  
