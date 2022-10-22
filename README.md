@@ -36,4 +36,4 @@
   <h4> Part : Data Crawler 
     
     
-<img src="https://user-images.githubusercontent.com/76942710/197327721-12ae246b-9f93-433a-8339-80f355ccd128.png" width = "50%" height="50%">
+<img src="https://user-images.githubusercontent.com/76942710/197327721-12ae246b-9f93-433a-8339-80f355ccd128.png" width = "10%" height="10%">
