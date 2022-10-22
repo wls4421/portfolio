@@ -19,10 +19,10 @@
 <h6>
   가톨릭대학교 성심교정 컴퓨터정보공학부(2017.2 ~ )
   
-<h1> Stack
+<h1> Stack and Activities
   <h2> Middle Level
-  <h4> Python
-  <h4> C/C++
+  <h4> Python - Selenium Crawling
+  <h4> C/C++ - SDL2 Game(C++) / A5/1(C) 
   <h2> Low Level
   <h4> Java
   <h4> Go
