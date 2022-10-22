@@ -127,9 +127,27 @@
 # SPY GAME <a id="mspy"></a>
    
 ## Table of contents
-  - [Process](#process)
-  - [My Part](#part)
-  - [Used Technology](#tech)
-  - [Architecture](#arch)
+  - [Process](#process2)
+  - [My Part](#part2)
+  - [Used Technology](#tech2)
+  - [Architecture](#arch2)
 
+<h4> Process<a id="process2"></a>
+<h6>  
 
+  * 2022.04 - 이미지 데이터 제작 및 기능 설계
+  
+  * 2022.05 - 기능 구현
+  
+  * 2022.06 - 버그 수정 및 사운드 파일 적용 
+ 
+<h4> My Part<a id="part2"></a>
+<h6>  
+    -  팀 리더  
+ 
+    -  컨셉, 오브젝트 기획
+    
+    -  기능구현
+    
+    -  사운드 파일 등 오픈소스 수급
+  
