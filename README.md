@@ -152,3 +152,7 @@
     
     -  사운드 파일 등 오픈소스 수급
   
+<h3> Used Technology <a id="tech" ></a>
+<div align = "center">
+   <img src="https://user-images.githubusercontent.com/76942710/197350231-e687ee0f-5198-4179-83de-6a35f3afe32f.png" width = "80%" height="80%">  
+</div>
