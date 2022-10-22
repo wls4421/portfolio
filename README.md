@@ -44,7 +44,7 @@
   - [Process](#process)
   - [Members and Parts](#members)
   - [References](#reference)
-  - [Technology](#tech)
+  - [Used Technology](#tech)
   - [Architecture](#arch)
 <h4> Process<a id="process"></a>
 <h6>  
@@ -75,7 +75,7 @@
     
    * Jee-Uk Heu, “Korean Language Clustering using Word2Vec”  
    
-<h3> Technology <a id="tech" ></a>
+<h3> Used Technology <a id="tech" ></a>
 <div align = "center">
    <img src="https://user-images.githubusercontent.com/76942710/197331078-2f9411f1-aa93-4675-9f3e-a60b5c5acd16.png" width = "80%" height="80%">  
 </div>
@@ -97,7 +97,7 @@
   
   3. 리뷰를 작성한 user 각각의 장소별로(클러스터링 그룹별로) 수치를 데이터화 합니다.  
   <div align ="center">
-   <img src="https://user-images.githubusercontent.com/76942710/197342042-d8b98312-1205-4ca0-8847-85d705a8e3a0.png" width = "100%" height = "100%">
+   <img src="https://user-images.githubusercontent.com/76942710/197342042-d8b98312-1205-4ca0-8847-85d705a8e3a0.png" width = "70%" height = "70%">
    </div>
   4. 수치화한 데이터를 기반으로 협업 필터링 모델을 제작합니다.
   
