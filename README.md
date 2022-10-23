@@ -167,7 +167,8 @@
   
   
 <h3> Features <a id="feature" ></a>  
- 
+ <h6>  
+  
   1. g_current_game_phase에 해당하는 클래스의 HandleEvent, Render, Update 객체가 main 함수에서 무한 루프의 형태로 반복됩니다.  
  
   2. PC에 전체 화면을 해상도 픽셀 단위로 랜더링합니다.  
