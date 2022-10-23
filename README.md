@@ -176,7 +176,7 @@
  
    <div>
    <img src="https://user-images.githubusercontent.com/76942710/197372636-51f1a598-5b54-4f21-af06-a612b737c93c.png" width = "10%" height = "10%">
-   <img src="https://user-images.githubusercontent.com/76942710/197372717-5e93a39e-9ad1-4c1d-8cb1-81f981d51c2c.JPG" width = "100%" height = "100%">
+   <img src="https://user-images.githubusercontent.com/76942710/197372717-5e93a39e-9ad1-4c1d-8cb1-81f981d51c2c.JPG" width = "50%" height = "50%">
    <img src="https://user-images.githubusercontent.com/76942710/197348889-9fd458b3-4e5c-44c9-ba95-d97b20ee8815.gif" width = "10%" height = "10%">
    </div>
    
