@@ -125,7 +125,7 @@
    </div>
 </div>
  
-# SPY GAME <a id="mspy"></a>
+# SPY GAME <a id="spy"></a>
    
 ## Table of contents
   - [Process](#process2)
