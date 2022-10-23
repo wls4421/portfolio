@@ -161,3 +161,35 @@
 <div align ="center">
    <img src="https://user-images.githubusercontent.com/76942710/197352453-b3da05e8-454e-44e1-8f8d-07d21cdf956a.png" width = "70%" height="70%"> 
 </div>
+
+ <h6>
+<div align = "left" >
+ 
+  1. 숙소 리뷰 사이트에서 리뷰 데이터를 크롤링합니다.  
+  
+  2. 리뷰 데이터를 자연어 처리하여 임베딩&클러스터링 합니다.  
+  
+   -> NLP(Natural Language Processing: 자연어처리), 리뷰 데이터의 명사 형용사 추출을 진행하기 위해 KoNLPy를 사용합니다.  
+  
+   -> 추출한 단어를 300차원 벡터로 임베딩합니다. 임베딩한 단어를 150개로 군집화(클러스터링)하여 이후 사용자의 성향 분석 문항에 이용합니다.  
+  
+  3. 리뷰를 작성한 user 각각의 장소별로(클러스터링 그룹별로) 수치를 데이터화 합니다.  
+  <div align ="center">
+   <img src="https://user-images.githubusercontent.com/76942710/197342042-d8b98312-1205-4ca0-8847-85d705a8e3a0.png" width = "70%" height = "70%">
+   </div>  
+   
+  4. 수치화한 데이터를 기반으로 협업 필터링 모델을 제작합니다.  
+  
+  
+  5. 사용자는 클러스터링 데이터를 기반으로 작성된 성향 분석 문항에 응답하고 이를 Input Data로 수치화합니다.
+  <div align ="center">
+   <img src="https://user-images.githubusercontent.com/76942710/197342212-3f111c1c-b74b-41df-8ed9-c8c45470a05a.png" width = "50%" height = "50%">
+   </div>
+  
+  6. Input Data와 비슷한 성향의 user가 평가한 장소(숙소)가 설정한 임계값을 넘어갈 때 이를 추천합니다.
+  <div align ="center">
+   <img src="https://user-images.githubusercontent.com/76942710/197348889-9fd458b3-4e5c-44c9-ba95-d97b20ee8815.gif" width = "50%" height = "50%">
+   </div>
+   
+ 
+</div>
