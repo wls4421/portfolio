@@ -66,13 +66,9 @@
 <h4> My Part<a id="part"></a>  
  
 <h6>  
-    -  Agoda 사이트 호텔 데이터 크롤링  
+    -  Agoda 사이트 호텔 데이터 크롤링 (Python - Selenium)
     
-    -  NLP(Natural Language Processing: 자연어처리)  
-    
-    -  Embedding(임베딩)&Clustering(클러스터링)
-  
-  
+    -  NLP(Natural Language Processing: 자연어처리) (Python KoNLPy)
   
 <h4> References<a id="reference"></a>  
 <h6>   
@@ -149,7 +145,7 @@
  
     -  컨셉, 오브젝트 기획
     
-    -  기능구현
+    -  기능구현 (C++ - SDL2)
     
     -  사운드 파일 등 오픈소스 수급
   
