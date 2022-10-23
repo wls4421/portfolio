@@ -132,6 +132,7 @@
   - [My Part](#part2)
   - [Used Technology](#tech2)
   - [Architecture](#arch2)
+  - [Features](#feature)
 
 <h4> Process<a id="process2"></a>
 <h6>  
@@ -164,12 +165,18 @@
 
  <h6>
 <div align = "left" >
+<h3> Features <a id="feature" ></a>
+  1. g_current_game_phase에 해당하는 클래스의 HandleEvent, Render, Update 객체가 main 함수에서 무한 루프의 형태로 반복됩니다.  
  
-  1. 숙소 리뷰 사이트에서 리뷰 데이터를 크롤링합니다.  
+  2. PC에 전체 화면을 해상도 픽셀 단위로 랜더링합니다.
+ 
+  3. 모든 GUI 오브젝트는 좌상단 {0,0}을 기준으로 픽셀 단위로 호출, 출력됩니다.
   
-  
-  6. Input Data와 비슷한 성향의 user가 평가한 장소(숙소)가 설정한 임계값을 넘어갈 때 이를 추천합니다.
-  <div align ="left">
+  ex) 64 * 120 pixel의 이미지에서 리소스의 픽셀로 호출하여 애니메이션을 구현합니다.
+ 
+   <div>
+   <img src="https://user-images.githubusercontent.com/76942710/197372636-51f1a598-5b54-4f21-af06-a612b737c93c.png" width = "10%" height = "10%">
+   <img src="https://user-images.githubusercontent.com/76942710/197372717-5e93a39e-9ad1-4c1d-8cb1-81f981d51c2c.JPG" width = "10%" height = "10%">
    <img src="https://user-images.githubusercontent.com/76942710/197348889-9fd458b3-4e5c-44c9-ba95-d97b20ee8815.gif" width = "10%" height = "10%">
    </div>
    
