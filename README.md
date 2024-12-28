@@ -18,31 +18,23 @@
 
 ✉ **wls4421@gmail.com**
 
-<h1> Education
-<h5>  2013.3 ~ 2016.2  
+<h1> Education  
 <h6>
-  서울대성고등학교
-<h5>  2017.2 ~
+  서울대성고등학교 (2013.3 ~ 2016.2)
 <h6>
-  가톨릭대학교 성심교정 컴퓨터정보공학부(2017.2 ~ 2024.2)  
- 
- 
+  가톨릭대학교 성심교정 컴퓨터정보공학부(2017.2 ~ 2024.2)   
   -  이수학점 132/130  
-  -  평점평균 3.72/4.5  
+  -  평점평균 3.72/4.5 
  
  
   
 <h1> Stack
   <h5> Python
   <h5> C/C++
-  <h5> Java
-  <h5> MySQL
   <h5> Git
-  <h5> AWS
 
 ## Projects
   - [MOOD](#mood)
-  - [SPY GAME](#spy)  
   
 ## 숙소 추천 알고리즘 MOOD(Make yOur Own Destination)<a id="mood"></a>
    
