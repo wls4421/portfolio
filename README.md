@@ -1,18 +1,11 @@
  <img src="https://user-images.githubusercontent.com/76942710/197327798-dfaf79a9-2814-41b4-9129-86c0e6ecc15e.jpg" width = "20%" height="20%" align="right" > 
 
-# #개발자를 꿈꾸는
-끊임없이 궁금해하는
-
-원활하게 소통하는
-
-맡은 일에 최선을 다하는
-
-개발자를 꿈꾸는 황상진 입니다.
+# C++ 개발자 황상진 입니다.
 
 <h1> Profile
 <h6>  
   
-**황상진(Hwang Sang Jin)**
+**연락처**
 
 ✆ **010-8633-4421**
 
