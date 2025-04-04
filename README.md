@@ -1,8 +1,9 @@
- <img src="https://user-images.githubusercontent.com/76942710/197327798-dfaf79a9-2814-41b4-9129-86c0e6ecc15e.jpg" width = "20%" height="20%" align="right" > 
 
 # C++ 개발자 황상진 입니다.
 
-<br/><br/><br/><br/><br/><br/><br/><br/>
+ <img src="https://user-images.githubusercontent.com/76942710/197327798-dfaf79a9-2814-41b4-9129-86c0e6ecc15e.jpg" width = "20%" height="20%" align="right" > 
+
+<br/><br/>
 
 <h1> Profile
 <h6>  
